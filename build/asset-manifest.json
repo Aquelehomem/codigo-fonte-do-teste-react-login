@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/teste-login-react/static/css/main.d43eb92a.chunk.css",
+    "main.js": "/teste-login-react/static/js/main.7bae540f.chunk.js",
+    "main.js.map": "/teste-login-react/static/js/main.7bae540f.chunk.js.map",
+    "runtime-main.js": "/teste-login-react/static/js/runtime-main.13d70df7.js",
+    "runtime-main.js.map": "/teste-login-react/static/js/runtime-main.13d70df7.js.map",
+    "static/js/2.9741078d.chunk.js": "/teste-login-react/static/js/2.9741078d.chunk.js",
+    "static/js/2.9741078d.chunk.js.map": "/teste-login-react/static/js/2.9741078d.chunk.js.map",
+    "index.html": "/teste-login-react/index.html",
+    "precache-manifest.9d372a337df3265145ff5a192c77e6f4.js": "/teste-login-react/precache-manifest.9d372a337df3265145ff5a192c77e6f4.js",
+    "service-worker.js": "/teste-login-react/service-worker.js",
+    "static/css/main.d43eb92a.chunk.css.map": "/teste-login-react/static/css/main.d43eb92a.chunk.css.map",
+    "static/js/2.9741078d.chunk.js.LICENSE.txt": "/teste-login-react/static/js/2.9741078d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d70df7.js",
+    "static/js/2.9741078d.chunk.js",
+    "static/css/main.d43eb92a.chunk.css",
+    "static/js/main.7bae540f.chunk.js"
+  ]
+}
